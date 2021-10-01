@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[O21] Penned Animal Config</name>
+	<author>Neronix17</author>
+	<packageId>neronix17.pennedanimalconfig</packageId>
+	<url></url>
+	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+	<description>Allows configuring of whether or not animals can be penned. Automatically includes all vanilla and modded animals.</description>
+</ModMetaData>
